@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sutunovu.github.io/sitemap/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/Ydw/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/mXi/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/BpN/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/orV/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/Nxi/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/JPZ/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/SdT/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/ofx/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/RgW/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/LMt/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/Thy/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/swo/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/kbT/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/vIE/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/EOa/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/uGk/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/irI/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/Bxo/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/LCv/sitemap_index.sutunovu
+Sitemap: https://sutunovu.github.io/Tic/sitemap_index.sutunovu
